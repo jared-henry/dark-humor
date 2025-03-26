@@ -8,7 +8,7 @@ I mean sure. I'd thought about it before. Held it in my hand and just kinda ran 
 
 But this was the first time I'd tasted the gun oil. 
 
-It was a cheap little revolver. Five rounds. Hollowpoint. Hornady Critical Defense in .38 special. 
+It was a cheap little 38. Five rounds. Hollowpoint. Hornady Critical Defense. 
 
 The kind of Saturday night special you put into your coat pocket when you live in a hotel where all the parking lot lights are busted.
 
@@ -26,7 +26,9 @@ I sat on my bed and opened the blinds.
 
  I'd always known this day was going to come around eventually. Since I was old enough to drive.
 
- My mom told me once, the first time she thought about it was driving past a bridge abuttment at 75 miles an hour.
+ My mom told me once, the first time she thought about it was driving past a bridge abutment at 75 miles an hour.
+
+ My dad thinks a railroad crossing would be better. But he's a little crazy.
 
  So, we're all caught up now.
 
