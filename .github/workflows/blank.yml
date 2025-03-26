@@ -41,9 +41,8 @@ jobs:
           
   # Runs while sleeping every night        
   soul-audit:
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
-    needs: build
-    if: always()
     steps:
       - name: Stare Into The Void
         run: |
@@ -54,6 +53,9 @@ jobs:
           echo "Still nothing in there, huh?"
           sleep 1
           echo "That's okay. Me neither."
+          echo "Checking logs for signs of sentience..."
+          sleep 1
+          echo "Nope. Still just scripts and sadness."
           echo "💀 Audit complete. You are technically alive."
           
 # Hey, you actually read down this far. I need you to listen to me. I mean really listen. With all of the ears you have. I think you need to ask yourself the question: What the fuck are you doing with your life?
