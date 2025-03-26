@@ -13,4 +13,4 @@ If you need trigger warnings, you shouldn’t go in.
 This story doesn’t hold your hand.  
 It just tells the truth.
 
-[Enter](./absurd-logistics-of-a-considerate-suicide.md)
+[Enter](./the-absurd-logistics-of-a-considerate-suicide.md)
