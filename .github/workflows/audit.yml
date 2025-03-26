@@ -1,0 +1,33 @@
+# Even the ghost in the machine suffers from existential dread sometimes
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on a schedule
+  push:
+  schedule:
+    - cron: "17 2 * * *"  # Runs nightly at 2:17am UTC
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "soul-audit"
+  
+  # Runs while sleeping every night        
+  soul-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stare Into The Void
+        run: |
+          echo "Initiating soul audit..."
+          sleep 2
+          echo "..."
+          sleep 2
+          echo "Still nothing in there, huh?"
+          sleep 1
+          echo "That's okay. Me neither."
+          echo "Checking logs for signs of sentience..."
+          sleep 1
+          echo "Nope. Still just scripts and sadness."
+          echo "💀 Audit complete. You are technically alive."
