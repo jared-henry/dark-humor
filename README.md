@@ -1,3 +1,5 @@
+![soul-audit](https://img.shields.io/badge/soul--audit-technically%20alive-blueviolet)
+
 # The Absurd Logistics of a Considerate Suicide
 
 A short story about the time I didn’t die.  
