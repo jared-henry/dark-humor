@@ -1,0 +1,97 @@
+# Built-in Visual Studio .gitignore
+# This file is a template for Visual Studio projects
+# Add files and folders to this list that you want Git to ignore
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]x64/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+# Visual Studio 2019 config
+.vs/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Backup files
+*.bak
+*.swp
+
+# Visual Studio 2022 config
+.vs/
+
+# macOS system files
+.DS_Store
+
+# Python packaging artifacts
+*.egg-info/
+build/
+dist/
+
+# Python virtual environments
+venv/
+*.pyc
+__pycache__/
+
+# Chaos additions start here
+
+# Ignore all .tmp files in the repo EXCEPT one very specific one
+*.tmp
+!docs/this-one-very-important-file.tmp
+
+# Ignore all 'secrets' directories EXCEPT those nested inside another 'secrets' folder
+secrets/
+!secrets/secrets/
+
+# Ignore all files starting with 'a' and ending with 'z' – just because we can
+[a-z]?????????????????????????????????????[z]
+
+# Ignore anything in a 'forbidden' directory unless it's explicitly labeled 'allowed'
+forbidden/**
+!forbidden/allowed/
+
+# Ignore zero-byte files, because they're clearly up to something
+*.[!a-zA-Z0-9]? # likely nonsense
+
+# Git is not your ex-girlfriend, but if it were:
+# Ignore emotional baggage
+baggage/
+
+# Ignore the crushing weight of existential dread
+existential/dread/
+
+# Don't track this because it only exists in your imagination
+imaginary/
+
+# Ignore log files unless they're funny
+*.log
+!important-hilarious.log
+
+# Ignore ZIP chaos payloads
+*.zip
+
+# Let go of the past. Embrace the future. But, beware of charlatans
+prophecy.log
+
+# End of chaos additions
