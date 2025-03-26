@@ -2,7 +2,7 @@
 
 # The Absurd Logistics of a Considerate Suicide
 
-A short story about the time I didn’t die.  
+A short story about a time I didn’t die.  
 Dark. Funny. Unapologetically human.
 
 ---
@@ -16,3 +16,15 @@ This story doesn’t hold your hand.
 It just tells the truth.
 
 [Enter](./the-absurd-logistics-of-a-considerate-suicide.md)
+
+---
+
+On a serious note. And this’ll be the only one:
+
+If you don’t know where to go, or even where to start, call 988.
+
+They WILL help.
+
+They are amazing people who will listen.
+
+And finding someone who will listen to you is the first step.
